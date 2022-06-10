@@ -3,7 +3,9 @@ Binance basic RSI trading bot with TP and SL
 
 # if you're feeling generous and want to support me:
 BTC adress:bc1qma8sspr5hxggzyu5atfm33tldumwmj0w5n54ue
+
 BNB adress:bnb14z584d3d5d0uxf3tdhh4sr8gryaw6j9htcptzf
+
 ETH adress:0x9F925CA2293ED1CB9Dd6Ab65Ca14A4Ea07511673
 
 # Use bot at own risks cryptocurrencys are volatile assets and traders accounts are at risks. None of this is financial advice nor is it guidence on how to trade just a software I created for fun, not for retail use. Do not use this software as a way to make money as the strategy is not proven so your capital is at risk it is not reliable trading strategy.
